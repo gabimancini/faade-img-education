@@ -8,6 +8,6 @@ A través de dos imágenes superpuestas y la etiqueta "transition", logramos dis
 También, podrán ejercitar la memoria tratando de recordar la ubicación de cada animal.
  
 Líneas de códigos simples en HTML y CSS. 
-Visita y juega en 
+Visita y juega en http://gabimancini.github.io/faade-img-education/
 
 
